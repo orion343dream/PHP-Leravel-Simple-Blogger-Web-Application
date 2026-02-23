@@ -1,11 +1,11 @@
-# Laravel 11 Internship Project
+# PHP+Leravel  Simple Blogger Web Application
 
 A comprehensive Laravel 11 project demonstrating backend development fundamentals, PHP OOP principles, and best practices for new developer interns.
 
 ## Project Structure Overview
 
 ```
-laravel-11-internship/
+PHP+Leravel Blogger/
 ├── app/
 │   ├── Classes/              # Custom PHP classes demonstrating OOP
 │   │   ├── PaymentInterface.php
